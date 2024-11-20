@@ -1,2 +1,2 @@
 # app.py
-print("Version 1: Hello, world!")
+print("Version 2: Hello, Git branches!")
